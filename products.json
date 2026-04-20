@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Джинси",
+    "price": 1999,
+    "desc": "Класичні «baggy» джинси з вільним кроєм на стегнах і ногах – це найактуальніший формат деніму останнього часу. Такий силует родом із культури стрітстайлу та юніорського вінтажу, що переживає сучасне повернення.",
+    "cat": "штани",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAIC0Wnf3VqudVkxxdd8v6B_fchlw6iQAAKWFmsboYoAAUsBe-7ldIcS3AEAAwIAA3cAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAIDXGnf6bnBtHRySjzoq-sj0z8zg6gSAALtFmsboYoAAUtlTuuGXB5CfAEAAwIAA3cAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAIDW2nf6bnXDlgtn3uPInjJfnV1NlYcAALsFmsboYoAAUt2MbrbjwwLiwEAAwIAA3cAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAIDYGnf6bmy-KBaYZ7lW5sJsgXIwU4iAALuFmsboYoAAUsaDLJnXPMBpQEAAwIAA3cAAzsE.jpg"
+    ]
+  },
+  {
+    "name": "Пуховик",
+    "price": 4999,
+    "desc": "Обʼємний зимовий пуховик із лаконічним дизайном і геометричним кроєм. Модель із високим коміром-стійкою та глибоким капюшоном створює захист від холоду й вітру. Застібка на блискавку з подвійним бігунком і вітрозахисною планкою на кнопках. Дві великі накладні кишені доповнюють функціональність.",
+    "cat": "куртки",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAIDiGnf6pnUZc0ocY9B87KEOWILL4PgAAL6FmsboYoAAUuSb8tdid-XngEAAwIAA3kAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAIDiWnf6plV4ZUj_hQo7mhhlTlmQtWkAAL7FmsboYoAAUsyzh18F-7oTgEAAwIAA3cAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAIDi2nf6pkTjnbc_3dvQEdu0VBgj92_AAL9FmsboYoAAUtPh5u6mM6TOgEAAwIAA3cAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAIDimnf6pmFziEOvtN-VCnRDBbi137oAAL8FmsboYoAAUtEsptD7edjMgEAAwIAA3cAAzsE.jpg"
+    ]
+  },
+  {
+    "name": "Худі",
+    "price": 1999,
+    "desc": "Худі з щільної трикотажної тканини 440 г/м², виконане з тринитки без начосу. Завдяки фактурному полотну та жорсткішій структурі модель добре тримає форму. \"Boxy\" крій з опущеною лінією плеча та об’ємним подвійним капюшоном створює сучасний силует з відчуттям свободи.",
+    "cat": "худі",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAID62ngGjgEjz0gXV6eN3bK_YhxtgIyAAJSF2sboYoAAUtQa114GR_wmwEAAwIAA3kAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAID7WngGjiLJFkiwsOq3pxb8KC3K1gNAAJUF2sboYoAAUsDlJv_RYoy_QEAAwIAA3cAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAID7mngGjgEIqd-Z68XOp3J_vqW4-7sAAJVF2sboYoAAUu8ibysIIx9hwEAAwIAA3cAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAID72ngGjimZLDILHU09whsU-E4gg0HAAJWF2sboYoAAUtNW-cb0s7KWAEAAwIAA3cAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAID7GngGjg3-C2_WhQ-4XhSSK-i-8bfAAJTF2sboYoAAUtokrq1ea1qwQEAAwIAA3cAAzsE.jpg"
+    ]
+  },
+  {
+    "name": "Куртка",
+    "price": 3399,
+    "desc": "Обʼємна куртка з м’якої еко-шкіри зі структурованою поверхнею та делікатним блиском. Силует побудований на розширеній лінії плеча й вільному крої, який формує виразну архітектоніку форми.",
+    "cat": "куртки",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAIECGngIWPzKfQxnYk8cRFQbFQg64SKAAJhF2sboYoAAUvenbhXaKcS2wEAAwIAA3cAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAIEB2ngIWOen0pxvbI0uVI4PuHB_V9qAAJgF2sboYoAAUuJAQ6QxNxZkAEAAwIAA3cAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAIECWngIWMJWjBSKo7htyDz_s13VODXAAJjF2sboYoAAUvNFDwe_0dN9wEAAwIAA3cAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAIEBmngIWPSS-kV90ye2_3xBeIJA6LbAAJfF2sboYoAAUsZcUOZq2ngvQEAAwIAA3cAAzsE.jpg",
+      "http://127.0.0.1:5000/uploads/AgACAgIAAxkBAAIECmngIWMFuN_T9FSlvFhI7DQTXArVAAJiF2sboYoAAUu-VqIzvGMLdwEAAwIAA3cAAzsE.jpg"
+    ]
+  }
+]
